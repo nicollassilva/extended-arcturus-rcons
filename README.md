@@ -4,7 +4,7 @@
 
 ## How to Install
 
-Download the [.jar](https://google.com) and place it inside your emulator, in the **plugins** folder.
+Download the [.jar](https://github.com/nicollassilva/extended-arcturus-rcons/tree/master/target) and place it inside your emulator, in the **plugins** folder.
 
 ## RCONs Added
 
