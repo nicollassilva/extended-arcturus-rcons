@@ -8,7 +8,7 @@ Download the [.jar](https://github.com/nicollassilva/extended-arcturus-rcons/tre
 
 ## RCONs Added
 
-- [x] [RemoveBadge]()
+- [x] [RemoveBadge](https://github.com/nicollassilva/extended-arcturus-rcons/blob/master/src/main/java/nicollassilva/extended/rcons/RemoveBadge.java)
 - [ ] [UpdateUserSettings]()
 - [ ] [GiveItem]()
 - [ ] [RemoveItem]()
