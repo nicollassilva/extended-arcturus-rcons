@@ -1,0 +1,9 @@
+target/*
+!target/ExtendedArcturusRCON-*.jar
+
+.classpath
+.project
+.settings/
+.idea/
+dependencies/
+logging/
